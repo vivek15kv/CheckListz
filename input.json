@@ -1,0 +1,95 @@
+{
+"menus": [
+  {
+    "header" : "Trip To London",
+    "votes" : 4,
+    "isShared" : false,
+    "tagName" : ["tag1","tag2"],
+    "menuItem" : [
+    {
+    "content" : "Book flight early",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item1@test.com"
+    },
+    {
+    "content" : "Get Visa a month before atleast",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item2"
+    }]
+  },
+  {
+    "header" : "Buy House",
+    "votes" : 3,
+    "isShared" : false,
+    "tagName" : ["tag3","tag4"],
+    "menuItem" : [
+    {
+    "content" : "Get home loan",
+    "isDone" : true,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item4"
+    },
+    {
+    "content" : "Complete Registration process",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item5"
+    },
+    {
+    "content" : "House warming ceremony",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item5"
+    }]
+  },
+  {
+    "header" : "Create AWS project",
+    "votes" : 4,
+    "isShared" : false,
+    "tagName" : ["tag1","tag2"],
+    "menuItem" : [
+    {
+    "content" : "get AWS signed up",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item1@test.com"
+    },
+    {
+    "content" : "get eclipse setup",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item2"
+    }]
+  },
+  {
+    "header" : "Check-in my code",
+    "votes" : 4,
+    "isShared" : false,
+    "tagName" : ["tag1","tag2"],
+    "menuItem" : [
+    {
+    "content" : "Review Code",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item1@test.com"
+    },
+    {
+    "content" : "use version source control",
+    "isDone" : false,
+    "attachment" : "none",
+    "image" : "none",
+    "id" : "item2"
+    }]
+  }  
+]
+}
