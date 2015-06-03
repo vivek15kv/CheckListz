@@ -22,7 +22,7 @@ public class GetPresentUserMenus {
 		
 			CPSConnection conn = new CPSConnection(
 					"tcp://cloud-us-0.clusterpoint.com:9007", "Checklist",
-					"1990vivekkumarverma@gmail.com", "koduverma", "100252",
+					my_user_id, password, database_id,
 					"document", "//document/id");
 			
 			String query = "<id>" + userId + "</id>";

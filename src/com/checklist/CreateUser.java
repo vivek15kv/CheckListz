@@ -69,7 +69,7 @@ public class CreateUser {
 				+ userName
 				+ "&password="
 				+ password
-				+ "&apikey=119d2323-608c-4bbc-ab39-c5acbaa992b5";
+				+ "&apikey=" api_key;
 		return UriBuilder.fromUri(placeSearchUrl).build();
 
 	}

@@ -66,8 +66,8 @@ public class MyResource {
 		try {
 			CPSConnection conn = new CPSConnection(
 					"tcp://cloud-us-0.clusterpoint.com:9007", "Checklist", 
-					"1990vivekkumarverma@gmail.com", "koduverma", 
-					                      "100252", "document", "//document/id");
+					user_id,password ,
+					                      databse_id,"document", "//document/id");
 			//List<String> docs = new ArrayList<String>();
 			  /*docs.add("<document><id>id5</id><title>Test document 1</title><body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a nisl magna</body></document>");
 			  docs.add("<document><id>id6</id><title>Test document 2</title><body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a nisl magna</body></document>");
